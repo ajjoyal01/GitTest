@@ -32,5 +32,7 @@ public class Convert {
 		// print the calculated result to the console
 		System.out.print("The equivalent in Celsius is ");
 		System.out.println(celsius);
+		
+		System.out.println("Testing Github");
 	}
 }
